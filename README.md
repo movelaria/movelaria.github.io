@@ -8,12 +8,12 @@
 
 **Vah Oliveira** é formada em Midialogia pela Unicamp com formação complementar em Cinema e Audiovisual pela Université Sorbonne Nouvelle (Paris).
 
-[**@SESCSP**](https://sescsp.org.br/programacao/153181_OFICINA+DE+MOVELARIA+ACESSIVEL+CONSTRUINDO+COM+PAPELAO)
+### Evento no site [**SESCSP**](https://sescsp.org.br/programacao/153181_OFICINA+DE+MOVELARIA+ACESSIVEL+CONSTRUINDO+COM+PAPELAO)
 
-### [Slides](movelaria.html)
+### [Slides de Conteúdo](movelaria.html)
 
 ### Contato
 
-amanda.leti@gmail.com
-gob.bueno@gmail.com
+amanda.leti@gmail.com 
+gob.bueno@gmail.com 
 vahh.oliveira@gmail.com 
