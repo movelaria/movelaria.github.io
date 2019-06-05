@@ -1,4 +1,4 @@
-# Movelaria @ Sesc São Caetano
+# Movelaria @ Sesc Pinheiros
 
 ## Quem somos nós?
 
@@ -6,7 +6,9 @@
 
 **Amanda Letícia** é bacharela em Midialogia pela Unicamp com graduação sanduíche em Estúdos de Mídia e Comunicação pela Monash University (Austrália).
 
-## Evento no site [**SESCSP**](https://www.sescsp.org.br/programacao/191488_MOVELARIA+DE+PAPELAO)
+**Vah Oliveira** é formada em Midialogia pela Unicamp com formação complementar em Cinema e Audiovisual pela Université Sorbonne Nouvelle (Paris).
+
+## Evento no site [**SESCSP**](https://sescsp.org.br/programacao/153181_OFICINA+DE+MOVELARIA+ACESSIVEL+CONSTRUINDO+COM+PAPELAO)
 
 ## [Slides da Oficina](movelaria.html)
 
