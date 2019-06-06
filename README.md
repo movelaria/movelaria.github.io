@@ -12,8 +12,6 @@
 
 ## Informações de Contato
 
-amanda.leti@gmail.com  
+amanda@biscos.com.br
 
-gob.bueno@gmail.com  
-
-vahh.oliveira@gmail.com 
+gui@biscos.com.br 
